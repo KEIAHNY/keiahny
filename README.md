@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 💼 I work at [CESNET](https://github.com/CESNET) on [Suriconf](https://github.com/CESNET/Suriconf), a tool for automating Suricata setup and configuration.
+  * The first release is planned for early 2027.
+* ⭐ I presented Suriconf at [LinuxDays 2026](https://pretalx.linuxdays.cz/linuxdays-2026/talk/BNB3RM/).
+* 🛠️ I mostly work with Rust, Python, C and C++.
+* 🌱 I’m working on improving my Rust skills.
+* 🎓 I'm a master's student in Cybersecurity at [FIT VUT](https://www.fit.vut.cz/) (Brno University of Technology).
+  * My [bachelor's thesis](https://www.vut.cz/studenti/zav-prace/detail/170986) was *Assistant for Optimized Configuration of [Suricata](https://suricata.io/)*.
+  * During my bachelor's, I contributed to [Suricata-Test-Suite](https://github.com/CESNET/Suricata-Test-Suite), a CI-based framework for testing Suricata's IDS performance.
